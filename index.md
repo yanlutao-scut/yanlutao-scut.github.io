@@ -12,18 +12,34 @@ I am a third year undergrad majoring in Data Science and Big Data Technology at 
 
 **Currently I am sincerely seeking for RA/Mphill/Phd Postion for 2025 fall!**
 
-My goal is to make comprehensible and simple art in the future. I grow up in Foshan. In my spare time, I like 🛹🏸 or any other playful sport. If you are interested in any aspect of me, I would love to chat and collaborate. Free to Talk & [Email](lutaoyan@foxmail.com)🙌
+My goal is to make comprehensible and simple art in the future. I grow up in Foshan. In my spare time, I like 🛹🏸 or any other playful sport. If you are interested in any aspect of me, I would love to chat and collaborate. Free to Talk & Free to Talk & [Email](mailto:lutaoyan@foxmail.com)🙌
 
-## Academic Background
+## Academic Experience
 
-- **Jan 2024 - Present:** Hong Kong University of Science and Technology (Guangzhou) (Internship)
-- **Sep 2021 - June 2025:** South China University of Technology (BEng, CS)
-- **Sep 2018 - June 2021:** Foshan No.1 High School
-- [Frankly Speaking About Myself]()
+ <table>
+    <tr>
+      <td><img src="https://lutaoyan.github.io/images/hkust.svg" alt="HKUSTG Internship" width="100"></td>
+      <td>
+        <strong>Jan 2024 - Present:</strong> Hong Kong University of Science and Technology (Guangzhou) (Internship)
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT BEng" width="100"></td>
+      <td>
+        <strong>Sep 2021 - June 2025:</strong> South China University of Technology (BEng, CS)
+      </td>
+    </tr>
+  </table>
 
 ---
 
 ## News and Updates
 
 - **May 2024：**The wesite is set up today！🎉
+
+## Education
+
+- **Sep 2021 - June 2025:** South China University of Technology (BEng, CS)
+- **Sep 2018 - June 2021:** Foshan No.1 High School
+- [Frankly Speaking About Myself]()
 
