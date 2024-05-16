@@ -18,18 +18,19 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 
  <table>
     <tr>
-      <td><img src="https://lutaoyan.github.io/images/hkust.svg" alt="HKUSTG Internship" width="100"></td>
+      <td><img src="https://lutaoyan.github.io/images/hkust.svg" alt="HKUST" width="100" height="100"></td>
       <td>
         <strong>Jan 2024 - Present:</strong> Hong Kong University of Science and Technology (Guangzhou) (Internship)
       </td>
     </tr>
     <tr>
-      <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT BEng" width="100"></td>
+      <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="100" height="100"></td>
       <td>
         <strong>Sep 2021 - June 2025:</strong> South China University of Technology (BEng, CS)
       </td>
     </tr>
   </table>
+
 
 ---
 
