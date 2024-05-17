@@ -44,9 +44,11 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 ## Education
 
 - **Sep 2021 - June 2025:** South China University of Technology (BEng, CS)
+
 - **Sep 2018 - June 2021:** Foshan No.1 High School
+
 - [Frankly Speaking About Myself]()
 
+  
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=n&d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk'></script>
