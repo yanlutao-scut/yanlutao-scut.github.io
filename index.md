@@ -12,7 +12,7 @@ I am a third year undergrad majoring in Data Science and Big Data Technology at 
 
 **Currently I am sincerely seeking for RA/Mphill/Phd Postion for 2025 fall!**
 
-My goal is to make comprehensible and simple art in the future. I grow up in Foshan. In my spare time, I like 🛹🏸 or any other playful sport. If you are interested in any aspect of me, I would love to chat and collaborate. Free to Talk & Free to Talk & [Email](mailto:lutaoyan@foxmail.com)🙌
+My goal is to make comprehensible and simple art in the future. I grow up in Foshan. In my spare time, I like 🛹🏸 or any other playful sport. If you are interested in any aspect of me, I would love to chat and collaborate. Free to Talk & [Email](mailto:lutaoyan@foxmail.com)🙌
 
 ## Academic Experience
 
