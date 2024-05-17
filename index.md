@@ -39,7 +39,7 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 
 ## News and Updates
 
-- **May 2024：**The wesite is set up today！🎉
+- **May 2024：**The website is set up today！🎉
 
 ## Education
 
