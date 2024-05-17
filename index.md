@@ -47,3 +47,6 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 - **Sep 2018 - June 2021:** Foshan No.1 High School
 - [Frankly Speaking About Myself]()
 
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk&cl=ffffff&w=a"></script>
