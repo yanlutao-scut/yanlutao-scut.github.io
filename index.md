@@ -18,13 +18,13 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 
 <table>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="100" height="100"></td>
+    <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="150" height="150"></td>
     <td>
       <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on multimodal large model. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Data Science and Analytics Thrust, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
     </td>
   </tr>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="100" height="100"></td>
+    <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="150" height="150"></td>
     <td>
       <strong>Sep 2021 - June 2025:</strong> Research Assistant, Multi-modal Learning and Generation. Advised by <a href="https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm">Ye Liu</a>, School of Future Technology, South China University of Technology.
     </td>

@@ -4,21 +4,28 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-
 ## Conference Paper
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
+*Updating Soon!*
 
-  <br>
+
+
+<table>
+  <tr>
+    <td><img src="https://lutaoyan.github.io/images/Pub/VIS2024.jpg" alt="HKUST" width="300" height="200"></td>
+    <td>
+      Evaluating Task-based Effectiveness of MLLMs on Charts<br>
+      Hanlin Cai Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
+      The 29th IEEE International Conference on Visualization and Visual Analytics 
+      (<a href="https://ieeevis.org/year/2024/welcome">VIS 2024</a>)<br>
+       St. Pete Beach, Florida, United State(Under Review)
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
 ## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
+*Updating Soon!*
