@@ -1,6 +1,6 @@
 # ✨
 
-- Here is **[Lutao Yan](https://lutaoyan.github.io/) **. This is my personal web repo source code. 
+- Here is **Lutao Yan**. This is my [personal web]((https://lutaoyan.github.io/) ) repo source code. 
 - Thanks [Hanlin](https://github.com/GuangLun2000/GuangLun2000.github.io) for this excellent template.
 
 ## Statement
