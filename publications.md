@@ -6,11 +6,9 @@ title: Publications
 
 ## Conference Paper
 
-*Updating Soon!*
-
 <table>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/Pub/VIS2024.jpg" alt="HKUST" width="300" height="200"></td>
+    <td><img src="https://lutaoyan.github.io/images/Pub/VIS2024.jpg" alt="VIS2024" width="300" height="200"></td>
     <td>
       Evaluating Task-based Effectiveness of MLLMs on Charts<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
@@ -21,6 +19,7 @@ title: Publications
   </tr>
 </table>
 
+Updating soon!
 
 
 
@@ -31,4 +30,14 @@ title: Publications
 ---
 
 ## Early Project
-*Updating Soon!*
+<table>
+  <tr>
+    <td><img src="https://lutaoyan.github.io/images/Pub/Portfolio.jpg" alt="Port" width="300" height="200"></td>
+    <td>
+      <strong>Portfolio</strong> for RBCC Application<br>
+      Summary of my selected programme work!<br>
+      PDF <a href="https://lutaoyan.github.io/images/Pub/Portfolio.pdf">link</a>
+    </td>
+  </tr>
+</table>
+
