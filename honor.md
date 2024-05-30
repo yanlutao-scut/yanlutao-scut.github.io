@@ -8,11 +8,25 @@ title: Honor
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <div style="flex: 0 0 300px;">
-    <img src="https://lutaoyan.github.io/images/Pub/VIS.png" alt="VIS" width="300" height="200">
+    <img src="https://lutaoyan.github.io/images/Pub/ViS.png" alt="VIS" width="300" height="200">
   </div>
   <div style="flex: 1; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
-      <strong>VIS</strong><br>
+      Evaluating Task-based Effectiveness of MLLMs on Charts<br>
+      Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
+      The 29th IEEE International Conference on Visualization and Visual Analytics 
+      (<a href="https://ieeevis.org/year/2024/welcome">VIS 2024</a>)<br>
+      St. Pete Beach, Florida, United States (Under Review)
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center;">
+  <div style="flex: 0 0 33.33%;">
+    <img src="https://lutaoyan.github.io/images/Pub/ViS.png" alt="VIS" width="100%" height="auto">
+  </div>
+  <div style="flex: 0 0 66.67%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
+    <div>
       Evaluating Task-based Effectiveness of MLLMs on Charts<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
       The 29th IEEE International Conference on Visualization and Visual Analytics 
@@ -42,12 +56,11 @@ Updating soon!
     </td>
   </tr>
 </table>
-
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 300px;">
-    <img src="https://lutaoyan.github.io/images/Pub/Portfolio.png" alt="Port" width="300" height="200">
+  <div style="flex: 0 0 33.33%;">
+    <img src="https://lutaoyan.github.io/images/Pub/Portfolio.png" alt="Port" width="100%" height="auto">
   </div>
-  <div style="flex: 1; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
+  <div style="flex: 0 0 66.67%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
       <strong>Portfolio</strong> for RBCC Application<br>
       Summary of my selected programme work!<br>
@@ -56,6 +69,8 @@ Updating soon!
     </div>
   </div>
 </div>
+
+
 
 # Selected Awards
 
