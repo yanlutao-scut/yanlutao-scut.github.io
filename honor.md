@@ -9,7 +9,7 @@ title: Honor
 <table>
   <tr>
     <td><img src="https://lutaoyan.github.io/images/Pub/VIS.png" alt="VIS2024" width="300" height="200"></td>
-    <td>
+    <td>VIS
       Evaluating Task-based Effectiveness of MLLMs on Charts<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
       The 29th IEEE International Conference on Visualization and Visual Analytics 
@@ -18,6 +18,7 @@ title: Honor
     </td>
   </tr>
 </table>
+
 
 
 Updating soon!
