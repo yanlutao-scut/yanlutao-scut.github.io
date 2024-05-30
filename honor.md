@@ -8,7 +8,7 @@ title: Honor
 
 <table>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/Pub/VIS2024.jpg" alt="VIS2024" width="300" height="200"></td>
+    <td><img src="https://lutaoyan.github.io/images/Pub/VIS.png" alt="VIS2024" width="300" height="200"></td>
     <td>
       Evaluating Task-based Effectiveness of MLLMs on Charts<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
@@ -18,6 +18,7 @@ title: Honor
     </td>
   </tr>
 </table>
+
 
 Updating soon!
 
@@ -34,10 +35,12 @@ Updating soon!
     <td>
       <strong>Portfolio</strong> for RBCC Application<br>
       Summary of my selected programme work!<br>
+        The <strong>research, projects and course design</strong> I have done in the past year mainly focus on the exploration and practice of <strong>AI</strong> technology<br>
       PDF <a href="https://lutaoyan.github.io/images/Pub/Portfolio.pdf">link</a>
     </td>
   </tr>
 </table>
+
 
 
 
