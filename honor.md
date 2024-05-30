@@ -30,7 +30,7 @@ Updating soon!
 # Early Project
 <table>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/Pub/Portfolio.jpg" alt="Port" width="300" height="200"></td>
+    <td><img src="https://lutaoyan.github.io/images/Pub/Portfolio.png" alt="Port" width="300" height="200"></td>
     <td>
       <strong>Portfolio</strong> for RBCC Application<br>
       Summary of my selected programme work!<br>
@@ -38,6 +38,7 @@ Updating soon!
     </td>
   </tr>
 </table>
+
 
 
 # Selected Awards
