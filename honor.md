@@ -36,11 +36,12 @@ Updating soon!
     <td>
       <strong>Portfolio</strong> for RBCC Application<br>
       Summary of my selected programme work!<br>
-        The <strong>research, projects and course design</strong> I have done in the past year mainly focus on the exploration and practice of <strong>AI</strong> technology<br>
+        The <strong>research, projects and course design</strong> I have done in the past year mainly focus on the exploration and practice of <strong>AI</strong><br>
       PDF <a href="https://lutaoyan.github.io/images/Pub/Portfolio.pdf">link</a>
     </td>
   </tr>
 </table>
+
 
 
 
