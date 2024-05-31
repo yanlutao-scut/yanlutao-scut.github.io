@@ -11,23 +11,25 @@
 - What has doing research brought me? A paper with my name on it? Actually, it is much more than a thesis. Doing research makes me feel that I am working and not a student in the traditional sense. If I were to do what I did in the past, I would have been able to discard my sense of life and not be creative for the sake of high scores on exams and GPAs. But this is not the case with research and thesis writing, which requires “Tian Shi Di Li Ren He”, just like playing a game, it is hard to predict what will be in the next level and the next bush. I enjoy the positive signals that effort brings to me. Humanity is the source of creativity, and it allows me to respect and understand myself, and to retain my sense of life and inspiration, so that I don't become sluggish in my research.
 ## Acknowledgement
 
-<p>I have been fortunate to work as a research intern with these wonderful people who generously provided me with guidance and mentorship. Innovative idea created on our way.</p>
+<p>I have been fortunate to work as a research intern with these wonderful people who generously provided me with guidance and mentorship...Innovative idea created on our way.</p>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; text-align: center;">
       <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\hg.png" alt="HG" width="100" height="100">
+    <img src="D:\GitRepo\LutaoYan.github.io\images\hg.png" alt="HG" width="75" height="75">
     <p>@ South China University of Technology<br>Prof. Ye Liu</p>
   </div>
   <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\hkust.svg" alt="HKUST" width="100" height="100">
+    <img src="D:\GitRepo\LutaoYan.github.io\images\hkust.svg" alt="HKUST" width="75" height="75">
     <p>@ Hong Kong University of Science and Technology<br>Prof. Yuyu Luo<br>Yifan Wu<br>Prof. Nan Tang</p>
   </div>
   <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\ruc.svg" alt="RUC" width="100" height="100">
+    <img src="D:\GitRepo\LutaoYan.github.io\images\ruc.svg" alt="RUC" width="75" height="75">
     <p>@ Renmin University of China<br>Prof. Yunhai Wang</p>
   </div>
       <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\nus.png" alt="NUS" width="150" height="75">
+    <img src="D:\GitRepo\LutaoYan.github.io\images\nus.png" alt="NUS" width="100" height="50
+                                                                                          ">
     <p>@ National University of Singapore<br>Prof. Prabhu Natarajan</p>
   </div>
 </div>
+
