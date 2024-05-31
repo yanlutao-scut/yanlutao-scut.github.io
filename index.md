@@ -48,7 +48,7 @@ My goal is to make comprehensible and simple art in the future. I grow up in Fos
 
 - **Sep 2018 - June 2021:** Foshan No.1 High School
 
-- [Frankly Speaking About Myself]()
+- [Frankly Speaking About Myself](https://lutaoyan.github.io/file/SoP.pdf)
 
   
 
