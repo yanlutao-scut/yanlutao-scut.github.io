@@ -8,6 +8,9 @@ title: Moment
 
 ## Updating Soon!
 
+## 2024.6
+Graduation season once again. Some of my thinking [Chinese blog](https://zhuanlan.zhihu.com/p/702175617).
+
 ## 2024.1.14
 
 My precious 21st birthday!
