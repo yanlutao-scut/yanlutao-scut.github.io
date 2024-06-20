@@ -6,8 +6,6 @@ title: Moment
 
 # My Life
 
-## Updating Soon!
-
 ## 2024.6
 <br>
 Happy Dragon Boat Festival.
