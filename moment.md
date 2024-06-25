@@ -24,6 +24,4 @@ My precious 21st birthday!
 <div>
 <img src="https://lutaoyan.github.io/images/moment/21birth.jpg">
 </div>
-
-
 <br>
