@@ -48,6 +48,9 @@ Updating soon!
 
 
 # Selected Awards
+- **Future Technology Study Tour Prize**  
+  CNY 5000 Scholarship  
+  2024  
 
 - **Future Technology Taihu Innovation Prize**  
   CNY 5000 Scholarship  
