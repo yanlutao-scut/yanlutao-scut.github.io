@@ -8,7 +8,7 @@ layout: page
 
 Here is **Lutao Yan (Neal, 晏璐涛)**.
 
-I am a third year undergrad majoring in Data Science and Big Data Technology at [South China University of Technology](https://www2.scut.edu.cn/gzic/main.htm), advised by  [Prof. Ye Liu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm). Currently, I serve as a research assistant at the [HKUST](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/). My search interest focus on Visualization, Multi-modal Learning and Generation,  LLM Application.
+I am a third-year undergrad majoring in Data Science and Big Data Technology at [South China University of Technology](https://www2.scut.edu.cn/gzic/main.htm), advised by  [Prof. Ye Liu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm). Currently, I serve as a research assistant at the [HKUST](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/). My search interest focus on Visualization, Multi-modal Learning and Generation,  LLM Application.
 
 **Currently I am sincerely seeking MPhil Position for 2025 fall!**
 
@@ -39,7 +39,7 @@ My goal is to make comprehensible and extensible art in the future. I grow up in
 
 ## News and Updates
 
-- **May 2024**： My first application for master is summitted. Fingers Crossed.
+- **June 2024：**Starting my internship journey in Shenzhen. See you, Guangzhou.
 - **May 2024：**The website is set up today！🎉
 
 ## Education
