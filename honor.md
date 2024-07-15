@@ -51,13 +51,21 @@ Updating soon!
 - **Future Technology Study Tour Prize**  
   CNY 5000 Scholarship  
   2024  
+  
 - **Future Technology Taihu Innovation Prize**  
   CNY 5000 Scholarship  
   2023  
+  
+- **National Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)** 
+
+  *Third Prize*   National competition
+  2022
+
 - **Thrice-Good Student of the Year**  
   _Top 10%_  
   2022  
+  
 - **Baidu "Paddle Paddle" Cup**  
-  _Excellence Award_  Enterprise competition  
+  _Excellence Award_    Enterprise competition  
   2021  
 
