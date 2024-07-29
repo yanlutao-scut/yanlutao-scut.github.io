@@ -8,14 +8,23 @@ title: Moment
 
 ## 2024.6
 
+Hiking in HK CWB.
+<br>
+
+<div>
+<img src="https://lutaoyan.github.io/images/moment/hike.jpg">
+</div>
+
+<br>
+
+## 2024.6
+
 Happy Dragon Boat Festival.
 <br>
 <div>
 <img src="https://lutaoyan.github.io/images/moment/608.png">
 </div>
 <br>
-
-
 
 ## 2024.1.14
 
