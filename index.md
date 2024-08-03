@@ -23,14 +23,12 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
       <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
     </td>
   </tr>
-    <br>
   <tr>
     <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="150" height="150"></td>
     <td>
       <strong>June 2024 - Present:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
     </td>
   </tr>
-    <br>
   <tr>
     <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="120" height="120"></td>
     <td>
@@ -38,11 +36,6 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 ---
 
