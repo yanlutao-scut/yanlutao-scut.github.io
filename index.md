@@ -24,9 +24,9 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
     </td>
   </tr>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="150" height="130"></td>
+    <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="180" height="180"></td>
     <td>
-      <strong>Jan 2024 - Present:</strong> Research Internship, MoE-based Model on multimedia large model. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Data Science and Analytics Thrust, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
+      <strong>Jan 2024 - Present:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
     </td>
   </tr>
   <tr>
