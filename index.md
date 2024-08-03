@@ -18,17 +18,19 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
 
 <table>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="140" height="120"></td>
+    <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="150" height="150"></td>
     <td>
-      <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Data Science and Analytics Thrust, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
+      <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
     </td>
   </tr>
+    <br>
   <tr>
-    <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="250" height="250"></td>
-    <td>June
+    <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="300" height="300"></td>
+    <td>
       <strong>June 2024 - Present:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
     </td>
   </tr>
+    <br>
   <tr>
     <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="150" height="150"></td>
     <td>
