@@ -13,24 +13,28 @@
 - updating....
 ## Acknowledgement
 
-<p>I have been fortunate to work as a research intern with these wonderful people who generously provided me with guidance and mentorship...Innovative idea created on our way.</p>
+<p>I am so lucky to meet all of you who generously provided me with guidance and mentorship...Innovative idea created on our way. (2024.9)</p>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; text-align: center;">
-      <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\hg.png" alt="HG" width="50" height="50">
-    <p>@ South China University of Technology<br>Prof. Ye Liu</p>
-  </div>
-  <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\hkust.svg" alt="HKUST" width="50" height="50">
-    <p>@ Hong Kong University of Science and Technology<br>Prof. Yuyu Luo<br>Yifan Wu<br>Prof. Nan Tang</p>
-  </div>
-  <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\ruc.svg" alt="RUC" width="50" height="50">
-    <p>@ Renmin University of China<br>Prof. Yunhai Wang</p>
-  </div>
-      <div style="margin: 10px;">
-    <img src="D:\GitRepo\LutaoYan.github.io\images\nus.png" alt="NUS" width="100" height="50
-                                                                                          ">
-    <p>@ National University of Singapore<br>Prof. Prabhu Natarajan</p>
-  </div>
+    <div style="margin: 5px;">
+        <img src="D:\GitRepo\LutaoYan.github.io\images\hg.png" alt="HG" width="50" height="50">
+        <p>@ South China University of Technology<br>Prof. Ye Liu<br>Room 610</p>
+    </div>
+    <div style="margin: 5px;">
+        <img src="D:\GitRepo\LutaoYan.github.io\images\hkust.svg" alt="HKUST" width="50" height="50">
+        <p>@ Hong Kong University of Science and Technology <br>Prof. Yuyu Luo<br>Prof. Nan Tang<br>Yifan Wu</p>
+    </div>
+    <div style="margin: 5px;">
+        <img src="D:\GitRepo\LutaoYan.github.io\images\ruc.svg" alt="RUC" width="50" height="50">
+        <p>@ Renmin University of China<br>Prof. Yunhai Wang</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="D:\GitRepo\LutaoYan.github.io\images\nus.png" alt="NUS" width="105" height="50">
+        <p>@ National University of Singapore<br>Prof. Prabhu Natarajan</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="D:\GitRepo\LutaoYan.github.io\images\cuhk.png" alt="CUHK" width="65" height="50">
+        <p>@ Chinese University of HK(sz)<br>Prof. Fangxin Wang<br>Panlong Wu</p>
+    </div>
 </div>
+
