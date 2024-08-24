@@ -29,20 +29,21 @@ Updating soon!
 
 ---
 
-# Early Project
+# Project
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <div style="flex: 0 0 25%;">
     <img src="https://lutaoyan.github.io/images/Pub/Portfolio.png" alt="Port" width="100%" height="auto">
   </div>
   <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
-      <strong>Portfolio</strong> for RBCC Application<br>
+      <strong>Portfolio</strong> for Early Project<br>
       Summary of my selected programme work!<br>
       The <strong>research, projects and course design</strong> I have done in the past year mainly focus on the exploration and practice of <strong>AI</strong><br>
       PDF <a href="https://lutaoyan.github.io/images/Pub/Portfolio.pdf">link</a>
     </div>
   </div>
 </div>
+
 
 
 
