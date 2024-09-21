@@ -41,6 +41,7 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
 
 ## News and Updates
 
+- **Sept 2024:**   My first paper accepted by EMNLP 2024! 
 - **June 2024：**Starting my internship journey in Shenzhen. See you, Guangzhou.
 - **May 2024：**The website is set up today！🎉
 
