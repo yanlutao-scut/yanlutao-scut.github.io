@@ -51,7 +51,7 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
 
 - **Sep 2018 - June 2021:** Foshan No.1 High School
 
-- [About Me](https://lutaoyan.github.io/file/SoP.pdf).pdf
+- [Something About Me](https://lutaoyan.github.io/file/SoP.pdf).pdf
 
   
 
