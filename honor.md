@@ -8,15 +8,15 @@ title: Honor
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <div style="flex: 0 0 25%;">
-    <img src="https://lutaoyan.github.io/images/Pub/ViS.png" alt="VIS" width="100%" height="auto">
+    <img src="https://lutaoyan.github.io/images/Pub/emnlp2024.png" alt="EMNLP" width="100%" height="auto">
   </div>
   <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
-      Evaluating Task-based Effectiveness of MLLMs on Charts<br>
-      Yifan Wu*, <strong>Lutao Yan*</strong>, Yuyu Luo, Yunhai Wang, Nan Tang (* Equal Contribution)<br>
-      The 29th IEEE International Conference on Visualization and Visual Analytics 
-      (<a href="https://ieeevis.org/year/2024/welcome">VIS 2024</a>)<br>
-      St. Pete Beach, Florida, United States (Under Review)
+      ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering<br>
+      Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo(* Equal Contribution)<br>
+      The 2024 Conference on Empirical Methods in Natural Language Processing 
+      (<a href="https://2024.emnlp.org/">EMNLP 2024</a>)<br>
+      Miami, Florida, United States
     </div>
   </div>
 </div>

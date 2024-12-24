@@ -26,13 +26,13 @@ My goal is to make comprehensible and extensible art in the future. In my spare 
   <tr>
     <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="150" height="150"></td>
     <td>
-      <strong>June 2024 - Present:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
+      <strong>June 2024 - Aug 2024:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
     </td>
   </tr>
   <tr>
     <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="150" height="150"></td>
     <td>
-      <strong>Sep 2021 - June 2025:</strong> Research Assistant, Multi-modal Learning and Generation. Advised by <a href="https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm">Ye Liu</a>, School of Future Technology, South China University of Technology.
+      <strong>Sep 2022 - June 2023:</strong> Research Assistant, Multi-modal Learning and Generation. Advised by <a href="https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm">Ye Liu</a>, School of Future Technology, South China University of Technology.
     </td>
   </tr>
 </table>
