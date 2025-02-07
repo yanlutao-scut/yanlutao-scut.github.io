@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /honor/index.html
-title: Honor
+permalink: /publications/index.html
+title: Publications
 ---
+
 
 # Conference Paper
 
@@ -14,9 +15,22 @@ title: Honor
     <div>
       ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo(* Equal Contribution)<br>
-      The 2024 Conference on Empirical Methods in Natural Language Processing 
-      (<a href="https://2024.emnlp.org/">EMNLP 2024</a>)<br>
+      The 2024 Conference on Empirical Methods in Natural Language Processing(EMNLP 2024)
+      (<a href="https://2024.emnlp.org/">PDF link</a>)<br>
       Miami, Florida, United States
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center;">
+  <div style="flex: 0 0 25%;">
+    <img src="https://lutaoyan.github.io/images/Pub/emnlp2024.png" alt="EMNLP" width="100%" height="auto">
+  </div>
+  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
+    <div>
+      Boosting Text-to-Chart Retrieval with Semantic Insights<br>
+      Yifan Wu, <strong>Lutao Yan*</strong>, Nan Tang, Yuyu Luo<br>
+      submitted to SIGIR 25(<a href="https://2024.emnlp.org/">preprint link</a>)<br>
     </div>
   </div>
 </div>
@@ -63,4 +77,6 @@ Updating soon!
 - **Baidu "Paddle Paddle" Cup**  
   _Excellence Award_    Enterprise competition  
   2021  
+
+
 
