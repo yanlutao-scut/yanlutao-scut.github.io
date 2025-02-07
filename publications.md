@@ -16,7 +16,7 @@ title: Publications
       ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering<br>
       Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo(* Equal Contribution)<br>
       (EMNLP 2024)
-      (<a href="https://2024.emnlp.org/">PDF link</a>)<br>
+      (<a href="https://arxiv.org/abs/2405.07001">PDF link</a>)<br>
       Miami, Florida, United States
     </div>
   </div>
