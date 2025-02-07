@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lutaoyan.github.io/lutao.jpg" class="floatpic" width="180" height="240">
+<!-- <img src="https://lutaoyan.github.io/lutao.jpg" class="floatpic" width="180" height="240"> -->
 
 Here is **Lutao Yan (Neal, 晏璐涛)**.
 
@@ -12,7 +12,6 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 
 **Currently I am sincerely seeking PhD / Mphil Position for 2025 fall!**
 
-My goal is to make comprehensible and extensible art in the future. In my spare time, I like 🛹🏸 or any other playful sport. If you are interested in any aspect of me, I would love to chat and collaborate. Free to Talk & [Email](mailto:lutaoyan@foxmail.com)🙌
 
 ## Academic Experience
 
