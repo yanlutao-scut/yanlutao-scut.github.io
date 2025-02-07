@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lutaoyan.github.io/lutao.jpg" class="floatpic" width="360" height="480">
+<img src="https://lutaoyan.github.io/lutao.jpg" class="floatpic" width="180" height="240">
 
 Here is **Lutao Yan (Neal, 晏璐涛)**.
 
