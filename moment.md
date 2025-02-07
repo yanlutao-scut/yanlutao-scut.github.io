@@ -6,17 +6,6 @@ title: Moment
 
 # My Life
 
-## 2024.8
-
-"Jiangnan" Visiting.
-<br>
-
-<div>
-<img src="https://lutaoyan.github.io/images/moment/wuxi.jpg">
-</div>
-
-<br>
-
 ## 2024.7
 
 Hiking in HK CWB.
