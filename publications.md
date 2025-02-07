@@ -25,7 +25,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <div style="flex: 0 0 25%;">
-    <img src="https://lutaoyan.github.io/images/Pub/sigir2025.png" alt="EMNLP" width="100%" height="auto">
+    <img src="https://yanlutao-scut.github.io/images/Pub/sigir2025.png" alt="EMNLP" width="100%" height="auto">
   </div>
   <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
