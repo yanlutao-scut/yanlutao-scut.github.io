@@ -30,7 +30,7 @@ title: Publications
   <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
       Boosting Text-to-Chart Retrieval with Semantic Insights<br>
-      Yifan Wu, <strong>Lutao Yan*</strong>, Nan Tang, Yuyu Luo<br>
+      Yifan Wu, <strong>Lutao Yan</strong>,Yizhang Zhu, et al, Nan Tang, Yuyu Luo<br>
       submitted to SIGIR 25(<a href="https://yanlutao-scut.github.io/file/SIGIR_25_Chart_Retrieval.pdf">preprint link</a>)<br>
     </div>
   </div>
