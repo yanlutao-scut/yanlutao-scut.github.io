@@ -25,7 +25,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <div style="flex: 0 0 25%;">
-    <img src="https://yanlutao-scut.github.io/images/Pub/sigir2025.png" alt="EMNLP" width="100%" height="auto">
+    <img src="https://yanlutao-scut.github.io/images/Pub/sigir2025.png" alt="SIGIR" width="100%" height="auto">
   </div>
   <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
     <div>
@@ -36,13 +36,21 @@ title: Publications
   </div>
 </div>
 
-Updating soon!
-
-
-
-
-
 ---
+<div style="display: flex; flex-wrap: nowrap; align-items: center;">
+  <div style="flex: 0 0 25%;">
+    <img src="https://yanlutao-scut.github.io/images/Pub/kdd2025.png" alt="KDD" width="100%" height="auto">
+  </div>
+  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
+    <div>
+      ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding<br>
+      Yifan Wu*, <strong>Lutao Yan*</strong>,Leixian Shen, et al, Yuyu Luo<br>
+      submitted to KDD 25(<a href="https://yanlutao-scut.github.io/file/ChartCards.pdf">preprint link</a>)<br>
+    </div>
+  </div>
+</div>
+---
+Updating soon!
 
 # Project
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
