@@ -16,7 +16,7 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 ## Academic Experience
 
 <table>
-  <tr>
+  <tr>s
     <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="150" height="150"></td>
     <td>
       <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
@@ -40,6 +40,7 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 
 ## News and Updates
 
+- **Jan 2025:** The [previous website https://lutaoyan.github.io/](https://lutaoyan.github.io/) is no longer maintained.
 - **Sept 2024:** Our first paper accepted by EMNLP 2024! 
 - **May 2024:** The website is set up today！🎉
 
@@ -49,8 +50,9 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 
 - **Sep 2018 - June 2021:** Foshan No.1 High School
 
-- [Something About Me](https://lutaoyan.github.io/file/SoP.pdf).pdf
+<!-- - [Something About Me](https://lutaoyan.github.io/file/SoP.pdf).pdf -->
 
   
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=n&d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=n&d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk'></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TxOWhljhUYXPn6GfBke-bxHhRuIunk_IQQ37lKbhp2U&cl=ffffff&w=a"></script>
