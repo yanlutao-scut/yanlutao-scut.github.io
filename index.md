@@ -16,7 +16,7 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 ## Academic Experience
 
 <table>
-  <tr>s
+  <tr>
     <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="150" height="150"></td>
     <td>
       <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
@@ -40,7 +40,7 @@ I am a final-year undergrad majoring in Data Science and Big Data Technology at 
 
 ## News and Updates
 
-- **Jan 2025:** The [previous website https://lutaoyan.github.io/](https://lutaoyan.github.io/) is no longer maintained.
+- **Jan 2025:** The [previous website lutaoyan.github.io](https://lutaoyan.github.io/) is no longer maintained.
 - **Sept 2024:** Our first paper accepted by EMNLP 2024! 
 - **May 2024:** The website is set up today！🎉
 
