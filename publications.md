@@ -59,7 +59,7 @@ title: Publications
     <div>
       ChartAlign: Instance-Level Visual Alignment for Robust Chart Understanding in MLLMs<br>
       Jing Xu, <strong>Lutao Yan</strong>,Zhihao Shuai, Weikai Yang<br>
-      submitted to KDD 25(<a href="https://yanlutao-scut.github.io/file/chartalign.pdf">preprint link</a>)<br>
+      submitted to NeurIPS 25(<a href="https://yanlutao-scut.github.io/file/chartalign.pdf">preprint link</a>)<br>
     </div>
   </div>
 </div>
