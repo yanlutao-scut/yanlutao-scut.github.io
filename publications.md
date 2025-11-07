@@ -51,19 +51,6 @@ title: Publications
 </div>
 ---
 
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 25%;">
-    <img src="https://yanlutao-scut.github.io/images/Pub/chartalign.png" alt="KDD" width="100%" height="auto">
-  </div>
-  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
-    <div>
-      ChartAlign: Instance-Level Visual Alignment for Robust Chart Understanding in MLLMs<br>
-      Jing Xu, <strong>Lutao Yan</strong>,Zhihao Shuai, Weikai Yang<br>
-      submitted to NeurIPS 25(<a href="https://yanlutao-scut.github.io/file/chartalign.pdf">preprint link</a>)<br>
-    </div>
-  </div>
-</div>
----
 Updating soon!
 
 # Project
