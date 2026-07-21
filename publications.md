@@ -27,7 +27,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
     <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
     <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yinan Mei, Jiannan Wang, Yuyu Luo</p>
     <p>Builds an automated chart-metadata generation framework and the 85K-chart MetaChart dataset, enabling shared training data across retrieval, question answering, and other chart tasks.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a> <a href="{{ site.url }}/file/ChartCards.pdf">PDF</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a></p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
     <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
     <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Yizhang Zhu, et al.</p>
     <p>Introduces the real-world BI benchmark CRBench and a hierarchical semantic-insight training pipeline for ChartFinder, improving precise text-to-chart retrieval NDCG@10 to 66.9%.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2505.10043">Paper</a> <a href="{{ site.url }}/file/SIGIR_25_Chart_Retrieval.pdf">PDF</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2505.10043">Paper</a></p>
   </div>
 </div>
 
@@ -49,6 +49,6 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
     <h2>ChartAlign: Instance-Level Visual Alignment for Robust Chart Understanding in MLLMs</h2>
     <p class="publication-authors"><strong>Lutao Yan</strong> et al.</p>
     <p>Constructs visually diverse but semantically equivalent ChartPairs and aligns image encoders at the instance level, improving robust multimodal reasoning on unlabeled and artistic charts.</p>
-    <p class="paper-links"><a href="{{ site.url }}/file/chartalign.pdf">PDF</a></p>
+    <p class="paper-links"><a href="{{ site.url }}/file/chartalign.pdf">Paper</a></p>
   </div>
 </div>
