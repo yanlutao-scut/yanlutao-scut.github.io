@@ -27,9 +27,9 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/kdd2025.png" alt="Overview of the ChartCards metadata generation framework" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>Under Review</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>Under Review</span></div>
       <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
-      <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
+      <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Yuyu Luo</p>
       <p>Builds an automated chart-metadata generation framework and the 85K-chart MetaChart dataset, enabling shared training data across retrieval, question answering, and other chart tasks.</p>
       <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a></p>
     </div>
