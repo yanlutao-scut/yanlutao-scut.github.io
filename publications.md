@@ -7,7 +7,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
 
 # Publications & Research
 
-<p class="page-intro">Four connected studies spanning chart evaluation, data construction, semantic retrieval, and robust visual alignment. An asterisk (*) denotes equal contribution.</p>
+<p class="page-intro">These selected publications form a connected research path in multimodal chart understanding—from evaluating low-level reasoning and constructing reusable training data to semantic retrieval and robust visual alignment. An asterisk (*) denotes equal contribution.</p>
 
 <div class="publication-card">
   <div class="publication-main">
