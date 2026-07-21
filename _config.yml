@@ -17,14 +17,20 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
-    url: /
+  - title: About
+    url: /#about
+  - title: Education
+    url: /#education
   - title: Publications
-    url: /publications/
+    url: /#publications
   - title: Experience
-    url: /experience/
+    url: /#experience
+  - title: Research
+    url: /#research
   - title: Awards
-    url: /awards/
+    url: /#awards
+  - title: Skills
+    url: /#skills
   - title: CV
     url: /file/ylt_resume.pdf
 
