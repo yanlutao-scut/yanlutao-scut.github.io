@@ -97,7 +97,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
     <div class="publication-content">
       <div class="publication-meta"><span>CVPR 2026 Findings</span></div>
       <h2>ChartAlign: Instance-Level Visual Alignment for Robust Chart Understanding in MLLMs</h2>
-      <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Yuyu Luo</p>
+      <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Weikai Yang</p>
       <p>Constructs visually diverse but semantically equivalent ChartPairs and aligns image encoders at the instance level, improving robust multimodal reasoning on unlabeled and artistic charts.</p>
       <p class="paper-links"><a href="{{ site.url }}/file/chartalign.pdf">Paper</a></p>
     </div>
