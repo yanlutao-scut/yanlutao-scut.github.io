@@ -1,15 +1,31 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
+		<a href="{% if page.lang == 'zh' %}{{ site.url }}/zh/{% else %}{{ site.url }}{% endif %}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
   {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
 	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<nav class="navigation-inner" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			{% if page.lang == 'zh' %}
+			<ul>
+				<li><a href="{{ site.url }}/zh/#about">关于</a></li>
+				<li><a href="{{ site.url }}/zh/#education">教育背景</a></li>
+				<li><a href="{{ site.url }}/zh/#publications">论文成果</a></li>
+				<li><a href="{{ site.url }}/zh/#experience">个人经历</a></li>
+				<li><a href="{{ site.url }}/zh/#awards">获奖情况</a></li>
+				<li><a href="{{ site.url }}/zh/#skills">专业技能</a></li>
+				<li><a href="{{ site.url }}/file/ylt_resume.pdf">简历</a></li>
+			</ul>
+			{% else %}
 		    <ul>
 		        {% for link in site.links %}
             <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
 		        {% endfor %}
 		    </ul>
+			{% endif %}
+			<div class="language-switch" role="group" aria-label="{% if page.lang == 'zh' %}语言切换{% else %}Language switcher{% endif %}">
+				<a href="{{ site.url }}/" hreflang="en" lang="en"{% unless page.lang == 'zh' %} class="is-active" aria-current="page"{% endunless %}>EN</a>
+				<a href="{{ site.url }}/zh/" hreflang="zh-CN" lang="zh-CN"{% if page.lang == 'zh' %} class="is-active" aria-current="page"{% endif %}>中文</a>
+			</div>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

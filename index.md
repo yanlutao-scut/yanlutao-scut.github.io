@@ -2,6 +2,7 @@
 layout: page
 title: Lutao Yan
 description: Lutao Yan's academic homepage, publications, research, experience, awards, and skills.
+lang: en
 ---
 
 <div id="about" class="section-anchor"></div>
