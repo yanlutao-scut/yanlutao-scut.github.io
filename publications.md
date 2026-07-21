@@ -2,91 +2,53 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
+description: Publications by Lutao Yan on multimodal chart understanding and retrieval.
 ---
 
+# Publications
 
-# Conference Paper
+<p class="page-intro">Selected work on multimodal chart understanding, data construction, information retrieval, and robust visual alignment. An asterisk (*) denotes equal contribution.</p>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 25%;">
-    <img src="https://lutaoyan.github.io/images/Pub/emnlp2024.png" alt="EMNLP" width="100%" height="auto">
-  </div>
-  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
-    <div>
-      ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering<br>
-      Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo(* Equal Contribution)<br>
-      (EMNLP 2024)
-      (<a href="https://arxiv.org/abs/2405.07001">PDF link</a>)<br>
-      Miami, Florida, United States
-    </div>
-  </div>
-</div>
----
-
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 25%;">
-    <img src="https://yanlutao-scut.github.io/images/Pub/sigir2025.png" alt="SIGIR" width="100%" height="auto">
-  </div>
-  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
-    <div>
-      Boosting Text-to-Chart Retrieval with Semantic Insights<br>
-      Yifan Wu, <strong>Lutao Yan</strong>,Yizhang Zhu, et al, Nan Tang, Yuyu Luo<br>
-      submitted to SIGIR 25(<a href="https://yanlutao-scut.github.io/file/SIGIR_25_Chart_Retrieval.pdf">preprint link</a>)<br>
-    </div>
+<div class="publication-card">
+  <div class="publication-image"><img src="{{ site.url }}/images/Pub/emnlp2024.png" alt="Overview of the ChartInsights benchmark" loading="lazy"></div>
+  <div class="publication-content">
+    <div class="publication-meta"><span>EMNLP 2024 Findings</span><span>Co-first author</span></div>
+    <h2>ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering</h2>
+    <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo</p>
+    <p>Introduces a low-level ChartQA benchmark covering 10 tasks and 7 chart types, evaluates 19 multimodal models, and proposes Chain-of-Charts to improve chart data question answering.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2405.07001">Paper</a></p>
   </div>
 </div>
 
----
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 25%;">
-    <img src="https://yanlutao-scut.github.io/images/Pub/kdd2025.png" alt="KDD" width="100%" height="auto">
-  </div>
-  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
-    <div>
-      ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding<br>
-      Yifan Wu*, <strong>Lutao Yan*</strong>,Leixian Shen, et al, Yuyu Luo<br>
-      submitted to KDD 25(<a href="https://yanlutao-scut.github.io/file/ChartCards.pdf">preprint link</a>)<br>
-    </div>
-  </div>
-</div>
----
-
-Updating soon!
-
-# Project
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <div style="flex: 0 0 25%;">
-    <img src="https://lutaoyan.github.io/images/Pub/Portfolio.png" alt="Port" width="100%" height="auto">
-  </div>
-  <div style="flex: 0 0 75%; padding-left: 10px; box-sizing: border-box; display: flex; align-items: center;">
-    <div>
-      <strong>Portfolio</strong> for Early Project<br>
-      Summary of my selected programme work!<br>
-      The <strong>research, projects and course design</strong> I have done in the past year mainly focus on the exploration and practice of <strong>AI</strong><br>
-      PDF <a href="https://lutaoyan.github.io/images/Pub/Portfolio.pdf">link</a>
-    </div>
+<div class="publication-card">
+  <div class="publication-image"><img src="{{ site.url }}/images/Pub/kdd2025.png" alt="Overview of the ChartCards metadata generation framework" loading="lazy"></div>
+  <div class="publication-content">
+    <div class="publication-meta"><span>NeurIPS 2025 Datasets &amp; Benchmarks</span><span>Co-first author</span></div>
+    <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
+    <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yinan Mei, Jiannan Wang, Yuyu Luo</p>
+    <p>Builds an automated chart-metadata generation framework and the 85K-chart MetaChart dataset, enabling shared training data across retrieval, question answering, and other chart tasks.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a> <a href="{{ site.url }}/file/ChartCards.pdf">PDF</a></p>
   </div>
 </div>
 
+<div class="publication-card">
+  <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="Overview of ChartFinder for text-to-chart retrieval" loading="lazy"></div>
+  <div class="publication-content">
+    <div class="publication-meta"><span>ACL 2026</span><span>Co-first author</span></div>
+    <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
+    <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Yizhang Zhu, et al.</p>
+    <p>Introduces the real-world BI benchmark CRBench and a hierarchical semantic-insight training pipeline for ChartFinder, improving precise text-to-chart retrieval NDCG@10 to 66.9%.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2505.10043">Paper</a> <a href="{{ site.url }}/file/SIGIR_25_Chart_Retrieval.pdf">PDF</a></p>
+  </div>
+</div>
 
-
-
-
----
-
-# Selected Awards
-- **Future Technology Study Tour Prize**  
-  CNY 5000 Scholarship  
-  2024  
-- **Future Technology Taihu Innovation Prize**  
-  CNY 5000 Scholarship  
-  2023  
-- **Thrice-Good Student of the Year**  
-  _Top 10%_  
-  2022  
-- **Baidu "Paddle Paddle" Cup**  
-  _Excellence Award_    Enterprise competition  
-  2021  
-
-
-
+<div class="publication-card">
+  <div class="publication-image"><img src="{{ site.url }}/images/Pub/chartalign.png" alt="Overview of the ChartAlign instance-level visual alignment method" loading="lazy"></div>
+  <div class="publication-content">
+    <div class="publication-meta"><span>CVPR 2026 Findings</span></div>
+    <h2>ChartAlign: Instance-Level Visual Alignment for Robust Chart Understanding in MLLMs</h2>
+    <p class="publication-authors"><strong>Lutao Yan</strong> et al.</p>
+    <p>Constructs visually diverse but semantically equivalent ChartPairs and aligns image encoders at the instance level, improving robust multimodal reasoning on unlabeled and artistic charts.</p>
+    <p class="paper-links"><a href="{{ site.url }}/file/chartalign.pdf">PDF</a></p>
+  </div>
+</div>

@@ -1,59 +1,65 @@
 ---
 layout: page
+title: Lutao Yan
+description: Lutao Yan's academic homepage, research, publications, and experience.
 ---
 
 # About Me
 
-<!-- <img src="https://lutaoyan.github.io/lutao.jpg" class="floatpic" width="180" height="240"> -->
+<div class="hero-intro" markdown="1">
+Hello! I am **Lutao Yan (Neal, 晏璐涛)**, an MPhil student in **Data Science and Analysis** at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I received my BEng in Data Science and Big Data Technology from [South China University of Technology](https://www.scut.edu.cn/).
 
-Here is **Lutao Yan (Neal, 晏璐涛)**.
+My research focuses on **multimodal learning, chart understanding, visual analytics, information retrieval, and LLM applications**. I am particularly interested in building reliable models and data systems that help people search, understand, and reason over real-world charts.
+</div>
 
-I am a final-year undergrad majoring in Data Science and Big Data Technology at [South China University of Technology](https://www2.scut.edu.cn/gzic/main.htm), advised by  [Prof. Ye Liu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm). Currently, I serve as a research assistant at the [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/) and [Prof. Weikai Yang](https://vicayang.cc/). My research interest focus on Multi-modal Learning, Visualization, Information Retrieval, LLM Application.
+<div class="quick-links">
+  <a class="site-button" href="{{ site.url }}/publications/">Publications</a>
+  <a class="site-button" href="{{ site.url }}/experience/">Experience</a>
+  <a class="site-button" href="{{ site.url }}/file/ylt_resume.pdf">CV / Resume</a>
+  <a class="site-button site-button-secondary" href="mailto:lutaoyan@foxmail.com">Email</a>
+</div>
 
-**I will join HKUST(GZ) in 2025 fall!**
+## Research
 
-## Academic Experience
+My four chart-related studies form a connected research path from **evaluation and data construction** to **semantic retrieval and robust visual alignment**.
 
-<table>
-  <tr>
-    <td><img src="https://lutaoyan.github.io/images/hkust.png" alt="HKUST" width="150" height="150"></td>
-    <td>
-      <strong>Jan 2024 - Present:</strong> Research Internship, Visual analysis based on MLLM. Advised by <a href="https://luoyuyu.vip/">Yuyu Luo</a>, Information Hub, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://lutaoyan.github.io/images/cuhk.png" alt="HKUST" width="150" height="150"></td>
-    <td>
-      <strong>June 2024 - Aug 2024:</strong> Research Assistant, MoE-based LLM in federated learning scenarios. Advised by <a href="https://mypage.cuhk.edu.cn/academics/wangfangxin/">Fangxin Wang</a>, School of Science and Engineering, <a href="https://sse.cuhk.edu.cn/en">The Chinese University of Hong Kong (Shenzhen)</a>.
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://lutaoyan.github.io/images/hg.png" alt="SCUT" width="150" height="150"></td>
-    <td>
-      <strong>Sep 2022 - June 2023:</strong> Research Assistant, Multi-modal Learning and Generation. Advised by <a href="https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm">Ye Liu</a>, School of Future Technology, South China University of Technology.
-    </td>
-  </tr>
-</table>
-
----
+<div class="research-track">
+  <div><span>01</span><strong>Evaluate</strong><p>Benchmark whether MLLMs can accurately read low-level chart data.</p></div>
+  <div><span>02</span><strong>Construct</strong><p>Generate reusable chart metadata and large-scale training data.</p></div>
+  <div><span>03</span><strong>Retrieve</strong><p>Connect natural-language intent with real-world BI charts.</p></div>
+  <div><span>04</span><strong>Align</strong><p>Improve robust reasoning across visually diverse charts.</p></div>
+</div>
 
 ## News and Updates
 
-- **Jan 2025:** The [previous website lutaoyan.github.io](https://lutaoyan.github.io/) is no longer maintained.
-- **Sept 2024:** Our first paper accepted by EMNLP 2024! 
-- **May 2024:** The website is set up today！🎉
+<ul class="news-list">
+  <li><strong>2026:</strong> <em>ChartAlign</em> appears in CVPR 2026 Findings.</li>
+  <li><strong>2026:</strong> <em>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</em> appears at ACL 2026.</li>
+  <li><strong>2026:</strong> Received the HKUST(GZ) Red Bird MPhil Scholarship.</li>
+  <li><strong>2025:</strong> <em>ChartCards</em> appears at NeurIPS 2025 Datasets &amp; Benchmarks.</li>
+  <li><strong>2025:</strong> Joined HKUST(GZ) as an MPhil student and received the Red Bird MPhil Scholarship.</li>
+  <li><strong>2024:</strong> <em>ChartInsights</em> appears in EMNLP 2024 Findings.</li>
+</ul>
 
 ## Education
-- **Sep 2025 - June 2027:** The Hong Kong University of Science and Technology (Guangzhou) (MPhil)
 
-- **Sep 2021 - June 2025:** South China University of Technology (BEng, CS)
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2025 - 2027</div>
+    <div><strong>Hong Kong University of Science and Technology (Guangzhou)</strong><br>MPhil, Data Science and Analysis</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2021 - 2025</div>
+    <div><strong>South China University of Technology</strong><br>BEng, Data Science and Big Data Technology, School of Future Technology</div>
+  </div>
+</div>
 
-- **Sep 2018 - June 2021:** Foshan No.1 High School
+## Selected Experience
 
-<!-- - [Something About Me](https://lutaoyan.github.io/file/SoP.pdf).pdf -->
+<div class="compact-experience">
+  <p><strong>Jiukun Investment</strong> · Data Analysis Intern · Jun 2026 - Oct 2026</p>
+  <p><strong>Tencent, WeChat Search</strong> · Algorithm Intern · Aug 2025 - Jun 2026</p>
+  <p><strong>HKUST(GZ)</strong> · Research Intern · Jan 2024 - Present</p>
+</div>
 
-  
-
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=n&d=cZuDqkhuai7AOCxCfWuvA5X8tSAG2nW9eLAOaAcF9Vk'></script> -->
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TxOWhljhUYXPn6GfBke-bxHhRuIunk_IQQ37lKbhp2U&cl=ffffff&w=a"></script> -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=TxOWhljhUYXPn6GfBke-bxHhRuIunk_IQQ37lKbhp2U'></script>
+See the complete timeline on the [Experience page]({{ site.url }}/experience/).
