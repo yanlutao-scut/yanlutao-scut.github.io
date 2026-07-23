@@ -124,7 +124,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-tencent" aria-label="Tencent"><strong>腾讯</strong><span>TENCENT</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/tencent.svg" alt="Tencent logo" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>Tencent · WeChat Search Algorithm Intern</strong><span>Aug 2025 - Jun 2026</span></div>
       <p>Built data and sampling pipelines for mixed-ranking CTR models using real search logs, user profiles, behavioral history, and query intent. Improved personalized ranking for feed-like search scenarios through data-flow and model-flow optimization.</p>
