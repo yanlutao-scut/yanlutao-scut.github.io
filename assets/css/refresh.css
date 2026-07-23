@@ -407,6 +407,14 @@ html[lang="zh-CN"] .article-wrap {
   border: 0;
 }
 
+.experience-logo-wide {
+  padding: 4px;
+}
+
+.experience-logo-wide img {
+  max-width: 90px;
+}
+
 .brand-logo {
   flex-direction: column;
   gap: 0.15em;
@@ -429,11 +437,6 @@ html[lang="zh-CN"] .article-wrap {
 .brand-jiukun {
   color: #1d315f;
   background: #f5f7fb;
-}
-
-.brand-tencent {
-  color: #1768b2;
-  background: #f1f7fc;
 }
 
 .brand-fineredline {

@@ -123,7 +123,7 @@ lang: zh
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-tencent" aria-label="腾讯"><strong>腾讯</strong><span>TENCENT</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/tencent.svg" alt="腾讯标志" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>腾讯 · 微信搜一搜算法实习生</strong><span>2025.08 - 2026.06</span></div>
       <p>面向微信搜一搜混排 CTR 预估，基于真实搜索日志、用户画像、行为历史及查询意图构建数据与采样管线；从数据流与模型流两条路径优化可刷场景下的个性化排序与点击率预估。</p>
