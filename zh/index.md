@@ -116,7 +116,7 @@ lang: zh
 
 <div class="experience-grid">
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-jiukun" aria-label="九坤投资"><strong>九坤</strong><span>JIUKUN</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/ubiquant.png" alt="九坤投资 UBIQUANT 标志" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>九坤投资 · 数据分析实习生</strong><span>2026.06 - 2026.10</span></div>
       <p>参与创新业务线 AIGC 产品商业化，负责数据分析与业务中台风控建设，识别黑灰产内容及异常行为，支持产品安全运营与商业化落地。</p>
@@ -142,7 +142,7 @@ lang: zh
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-fineredline" aria-label="细红线科技"><strong>细红线</strong><span>FineRedLine</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/thirdline.png" alt="细红线 THIRDLINE 标志" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>细红线科技 · 算法实习生</strong><span>2024.06 - 2024.12</span></div>
       <p>设计大语言模型评测系统与基准，并依据质量标准审核生成文本和数据标注结果。</p>

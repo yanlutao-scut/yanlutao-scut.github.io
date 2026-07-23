@@ -117,7 +117,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
 
 <div class="experience-grid">
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-jiukun" aria-label="Jiukun Investment"><strong>九坤</strong><span>JIUKUN</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/ubiquant.png" alt="UBIQUANT logo" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>Jiukun Investment · Data Analysis Intern</strong><span>Jun 2026 - Oct 2026</span></div>
       <p>Supported the commercialization of AIGC products through data analysis and risk-control infrastructure, including detection of abusive content and anomalous behavior.</p>
@@ -143,7 +143,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo brand-logo brand-fineredline" aria-label="FineRedLine Technology"><strong>细红线</strong><span>FineRedLine</span></div>
+    <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/thirdline.png" alt="THIRDLINE logo" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>FineRedLine Technology · Algorithm Intern</strong><span>Jun 2024 - Dec 2024</span></div>
       <p>Designed LLM evaluation systems and benchmarks, and reviewed generated text and annotations against quality standards.</p>
