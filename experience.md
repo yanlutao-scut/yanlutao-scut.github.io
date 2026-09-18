@@ -12,11 +12,11 @@ description: Industry and research experience of Lutao Yan.
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-heading"><strong>Jiukun Investment</strong><span>Jun 2026 - Oct 2026</span></div>
-    <p>Data Analysis Intern. Supported the commercialization of AIGC products through data analysis and risk-control infrastructure, including detection of abusive content and anomalous behavior.</p>
+    <p>Data Analysis Intern. Supported AIGC product commercialization in a leading quantitative investment firm's innovative business team. Built user profiles and segments to analyze paid conversion, and contributed risk-analysis scripts, weekly reports, and reviews of monitoring results to support product operations and risk-strategy improvements.</p>
   </div>
   <div class="experience-item">
     <div class="experience-heading"><strong>Tencent · WeChat Search Applications</strong><span>Aug 2025 - Jun 2026</span></div>
-    <p>Algorithm Intern. Built data and sampling pipelines for mixed-ranking CTR models using real search logs, user profiles, behavioral history, and query intent. Improved personalized ranking for feed-like search scenarios through data-flow and model-flow optimization.</p>
+    <p>Algorithm Intern. Worked on personalized ranking and CTR prediction for WeChat Search. Combined user profiles, behavioral history, and query intent with DIN attention and MMoE multi-task learning for click and dwell-time prediction. Offline AUC increased by 0.08; online A/B tests improved the impression-with-click rate by 1.5%.</p>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ description: Industry and research experience of Lutao Yan.
 
 <div class="experience-list">
   <div class="experience-item">
-    <div class="experience-heading"><strong>HKUST(GZ) · Research Intern</strong><span>Jan 2024 - Present</span></div>
+    <div class="experience-heading"><strong>HKUST(GZ) · Research Intern</strong><span>Jan 2024 - Jun 2025</span></div>
     <p>Advised by <a href="https://luoyuyu.vip/">Prof. Yuyu Luo</a> and Prof. Weikai Yang. Conducted four visual-analytics studies on multimodal chart understanding, data construction, and retrieval.</p>
   </div>
   <div class="experience-item">

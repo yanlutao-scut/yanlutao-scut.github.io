@@ -45,7 +45,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/emnlp2024.png" alt="Overview of the ChartInsights benchmark" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>EMNLP 2024 Findings</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>EMNLP 2024</span><span>Co-first author</span></div>
       <h2>ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering</h2>
       <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo</p>
       <p>Introduces a low-level ChartQA benchmark covering 10 tasks and 7 chart types, evaluates 19 multimodal models, and proposes Chain-of-Charts to improve chart data question answering.</p>
@@ -66,7 +66,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
       <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
       <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Yuyu Luo</p>
       <p>Builds an automated chart-metadata generation framework and the 85K-chart MetaChart dataset, enabling shared training data across retrieval, question answering, and other chart tasks.</p>
-      <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a></p>
+      <!-- Public paper link omitted until an updated manuscript is available. -->
     </div>
   </div>
   <aside class="publication-stage" aria-label="Research stage: Construct">
@@ -79,7 +79,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="Overview of ChartFinder for text-to-chart retrieval" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>ACL 2026</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>EMNLP 2026</span><span>Co-first author</span></div>
       <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
       <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
       <p>Introduces the real-world BI benchmark CRBench and a hierarchical semantic-insight training pipeline for ChartFinder, improving precise text-to-chart retrieval NDCG@10 to 66.9%.</p>
@@ -120,14 +120,14 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
     <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/ubiquant.png" alt="UBIQUANT logo" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>Jiukun Investment · Data Analysis Intern</strong><span>Jun 2026 - Oct 2026</span></div>
-      <p>Supported the commercialization of AIGC products through data analysis and risk-control infrastructure, including detection of abusive content and anomalous behavior.</p>
+      <p>Supported AIGC product commercialization in a leading quantitative investment firm's innovative business team. Built user profiles and segments to analyze paid conversion, and contributed risk-analysis scripts, weekly reports, and reviews of monitoring results to support product operations and risk-strategy improvements.</p>
     </div>
   </div>
   <div class="experience-card">
     <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/tencent.svg" alt="Tencent logo" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>Tencent · WeChat Search Algorithm Intern</strong><span>Aug 2025 - Jun 2026</span></div>
-      <p>Built data and sampling pipelines for mixed-ranking CTR models using real search logs, user profiles, behavioral history, and query intent. Improved personalized ranking for feed-like search scenarios through data-flow and model-flow optimization.</p>
+      <p>Worked on personalized ranking and CTR prediction for WeChat Search. Combined user profiles, behavioral history, and query intent with DIN attention and MMoE multi-task learning for click and dwell-time prediction. Offline AUC increased by 0.08; online A/B tests improved the impression-with-click rate by 1.5%.</p>
     </div>
   </div>
 </div>
@@ -138,7 +138,7 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
   <div class="experience-card">
     <div class="experience-logo"><img src="{{ site.url }}/images/hkust.png" alt="HKUST(GZ) logo" loading="lazy"></div>
     <div class="experience-copy">
-      <div class="experience-heading"><strong>HKUST(GZ) · Research Intern</strong><span>Jan 2024 - Present</span></div>
+      <div class="experience-heading"><strong>HKUST(GZ) · Research Intern</strong><span>Jan 2024 - Jun 2025</span></div>
       <p>Advised by <a href="https://luoyuyu.vip/">Prof. Yuyu Luo</a> and Prof. Weikai Yang. Conducted four visual-analytics studies on multimodal chart understanding, data construction, and retrieval.</p>
     </div>
   </div>

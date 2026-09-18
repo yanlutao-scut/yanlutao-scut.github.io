@@ -13,7 +13,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/emnlp2024.png" alt="Overview of the ChartInsights benchmark" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>EMNLP 2024 Findings</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>EMNLP 2024</span><span>Co-first author</span></div>
       <h2>ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering</h2>
       <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo</p>
       <p>Introduces a low-level ChartQA benchmark covering 10 tasks and 7 chart types, evaluates 19 multimodal models, and proposes Chain-of-Charts to improve chart data question answering.</p>
@@ -31,7 +31,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
       <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
       <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Yuyu Luo</p>
       <p>Builds an automated chart-metadata generation framework and the 85K-chart MetaChart dataset, enabling shared training data across retrieval, question answering, and other chart tasks.</p>
-      <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">Paper</a></p>
+      <!-- Public paper link omitted until an updated manuscript is available. -->
     </div>
   </div>
   <aside class="publication-stage" aria-label="Research stage: Construct"><span>02</span><strong>Construct</strong><p>Generate reusable chart metadata and large-scale training data.</p></aside>
@@ -41,7 +41,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="Overview of ChartFinder for text-to-chart retrieval" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>ACL 2026</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>EMNLP 2026</span><span>Co-first author</span></div>
       <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
       <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
       <p>Introduces the real-world BI benchmark CRBench and a hierarchical semantic-insight training pipeline for ChartFinder, improving precise text-to-chart retrieval NDCG@10 to 66.9%.</p>

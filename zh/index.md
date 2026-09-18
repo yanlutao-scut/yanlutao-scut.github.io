@@ -46,7 +46,7 @@ lang: zh
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/emnlp2024.png" alt="ChartInsights 基准概览" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>EMNLP 2024 Findings</span><span>共同第一作者</span></div>
+      <div class="publication-meta"><span>EMNLP 2024</span><span>共同第一作者</span></div>
       <h2>ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering</h2>
       <p class="publication-authors">Yifan Wu*, <strong>Lutao Yan*</strong>, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo</p>
       <p>构建覆盖 10 类任务和 7 种图表类型的低层 ChartQA 基准，评测 19 个多模态模型，并提出 Chain-of-Charts 提示策略以提升图表数据问答能力。</p>
@@ -67,7 +67,7 @@ lang: zh
       <h2>ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding</h2>
       <p class="publication-authors"><strong>Lutao Yan</strong>, et al., Yuyu Luo</p>
       <p>提出自动化图表元数据生成框架并构建包含 8.5 万张图表的 MetaChart 数据集，为检索、问答等多类图表任务提供可复用的统一训练数据。</p>
-      <p class="paper-links"><a href="https://arxiv.org/abs/2505.15046">论文</a></p>
+      <!-- Public paper link omitted until an updated manuscript is available. -->
     </div>
   </div>
   <aside class="publication-stage" aria-label="研究阶段：构建">
@@ -80,7 +80,7 @@ lang: zh
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="ChartFinder 文本到图表检索框架概览" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>ACL 2026</span><span>共同第一作者</span></div>
+      <div class="publication-meta"><span>EMNLP 2026</span><span>共同第一作者</span></div>
       <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
       <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
       <p>构建真实商业智能场景基准 CRBench，并提出分层语义洞察训练管线训练 ChartFinder，将精确文本到图表检索的 NDCG@10 提升至 66.9%。</p>
@@ -119,14 +119,14 @@ lang: zh
     <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/ubiquant.png" alt="九坤投资 UBIQUANT 标志" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>九坤投资 · 数据分析实习生</strong><span>2026.06 - 2026.10</span></div>
-      <p>参与创新业务线 AIGC 产品商业化，负责数据分析与业务中台风控建设，识别黑灰产内容及异常行为，支持产品安全运营与商业化落地。</p>
+      <p>参与头部量化私募创新业务线 AIGC 产品商业化，结合用户意图、创作行为和付费数据建设用户画像与分层，分析付费转化并提出运营优化建议；参与风险分析脚本、周报及巡检结果复核，支持产品安全运营与风控策略迭代。</p>
     </div>
   </div>
   <div class="experience-card">
     <div class="experience-logo experience-logo-wide"><img src="{{ site.url }}/images/tencent.svg" alt="腾讯标志" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>腾讯 · 微信搜一搜算法实习生</strong><span>2025.08 - 2026.06</span></div>
-      <p>面向微信搜一搜混排 CTR 预估，基于真实搜索日志、用户画像、行为历史及查询意图构建数据与采样管线；从数据流与模型流两条路径优化可刷场景下的个性化排序与点击率预估。</p>
+      <p>负责微信搜一搜个性化排序与 CTR 预估，融合用户画像、历史行为和查询意图，通过 DIN 注意力与 MMoE 多任务学习联合预测点击和停留时长，从数据流与模型流两条路径优化排序。离线 AUC 提升 0.08，线上 A/B 实验曝光有点率提升 1.5%。</p>
     </div>
   </div>
 </div>
@@ -137,7 +137,7 @@ lang: zh
   <div class="experience-card">
     <div class="experience-logo"><img src="{{ site.url }}/images/hkust.png" alt="香港科技大学（广州）校徽" loading="lazy"></div>
     <div class="experience-copy">
-      <div class="experience-heading"><strong>香港科技大学（广州）· 研究实习生</strong><span>2024.01 - 至今</span></div>
+      <div class="experience-heading"><strong>香港科技大学（广州）· 研究实习生</strong><span>2024.01 - 2025.06</span></div>
       <p>导师：<a href="https://luoyuyu.vip/">骆昱宇教授</a>、杨维铠教授。围绕多模态大模型的图表理解、数据构建与检索开展 4 项可视分析研究工作。</p>
     </div>
   </div>
@@ -159,7 +159,7 @@ lang: zh
     <div class="experience-logo"><img src="{{ site.url }}/images/hg.png" alt="华南理工大学校徽" loading="lazy"></div>
     <div class="experience-copy">
       <div class="experience-heading"><strong>华南理工大学 · 科研助理</strong><span>2023.04 - 2024.05</span></div>
-      <p>导师：刘烨教授、徐进教授。研究跨领域谎言检测及模型在不同数据域之间的泛化能力。</p>
+      <p>导师：刘晔教授、徐进教授。研究跨领域谎言检测及模型在不同数据域之间的泛化能力。</p>
     </div>
   </div>
   <div class="experience-card">
