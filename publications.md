@@ -41,7 +41,7 @@ description: Publications by Lutao Yan on multimodal chart understanding and ret
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="Overview of ChartFinder for text-to-chart retrieval" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>EMNLP 2026</span><span>Co-first author</span></div>
+      <div class="publication-meta"><span>EMNLP 2026</span></div>
       <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
       <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
       <p>Introduces the real-world BI benchmark CRBench and a hierarchical semantic-insight training pipeline for ChartFinder, improving precise text-to-chart retrieval NDCG@10 to 66.9%.</p>

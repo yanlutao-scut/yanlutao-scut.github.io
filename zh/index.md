@@ -79,7 +79,7 @@ lang: zh
   <div class="publication-main">
     <div class="publication-image"><img src="{{ site.url }}/images/Pub/sigir2025.png" alt="ChartFinder 文本到图表检索框架概览" loading="lazy"></div>
     <div class="publication-content">
-      <div class="publication-meta"><span>EMNLP 2026</span><span>共同第一作者</span></div>
+      <div class="publication-meta"><span>EMNLP 2026</span></div>
       <h2>Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights</h2>
       <p class="publication-authors"><strong>Lutao Yan*</strong>, et al., Yuyu Luo</p>
       <p>构建真实商业智能场景基准 CRBench，并提出分层语义洞察训练管线训练 ChartFinder，将精确文本到图表检索的 NDCG@10 提升至 66.9%。</p>
