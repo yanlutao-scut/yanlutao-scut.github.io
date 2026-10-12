@@ -9,7 +9,6 @@ owner:
   avatar: lutao-profile.jpg
   bio: MPhil student at HKUST(GZ), working on multimodal chart understanding and information retrieval.
   email: lutaoyan@foxmail.com
-  cv: /file/ylt_resume.pdf
   # Social networking links used in the author sidebar.
   github: yanlutao-scut
   scholar: https://scholar.google.com/citations?user=QmD2qrYAAAAJ&hl=zh-CN
@@ -29,8 +28,6 @@ links:
     url: /#awards
   - title: Skills
     url: /#skills
-  - title: CV
-    url: /file/ylt_resume.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai

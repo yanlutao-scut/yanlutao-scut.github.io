@@ -19,7 +19,6 @@ lang: zh
 <div class="quick-links">
   <a class="site-button" href="#publications">论文成果</a>
   <a class="site-button" href="#experience">个人经历</a>
-  <a class="site-button" href="{{ site.url }}/file/ylt_resume.pdf">个人简历</a>
   <a class="site-button site-button-secondary" href="mailto:lutaoyan@foxmail.com">邮箱</a>
 </div>
 

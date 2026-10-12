@@ -18,7 +18,6 @@ My research focuses on **multimodal learning, chart understanding, visual analyt
 <div class="quick-links">
   <a class="site-button" href="#publications">Publications</a>
   <a class="site-button" href="#experience">Experience</a>
-  <a class="site-button" href="{{ site.url }}/file/ylt_resume.pdf">CV / Resume</a>
   <a class="site-button site-button-secondary" href="mailto:lutaoyan@foxmail.com">Email</a>
 </div>
 
